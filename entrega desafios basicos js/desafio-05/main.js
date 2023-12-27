@@ -7,7 +7,7 @@ let elementos = [64, 137, -16, 43, 67, 81, -90, 212, 10, 75];
 let valor = parseInt(gets());
 let resultado = buscaSequencial(valor, elementos);
 
-//TODO: Retorne o valor do elemento no Array junto de sua respectiva posição.
+//TODO: Retorne o valor do elemento no Array junto de sua respectiva posição
 
 
 // Função para realizar busca sequencial
